@@ -1,0 +1,11 @@
+horizon_size	40
+hidden_size	50
+quantiles	0.8
+columns	1
+dropout	0.3
+layer_size	2
+by_direction	0
+lr	0.001
+batch_size	1
+num_epochs	50
+context_size	10
